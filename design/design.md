@@ -154,7 +154,7 @@ portfolio/
 
 ### 타이포그래피
 - 본문 `Inter Tight` + `Noto Sans KR`, 기간·타임코드·라벨은 `JetBrains Mono`.
-- 히어로 `h1`: `clamp(3rem, 9vw, 7.2rem)`, 600, letter-spacing -.055em, line-height .94. 마지막 단어만 `--ac2`.
+- 히어로 `h1`만 `Georgia`(400, 시스템 세리프): `clamp(3.4rem, 10vw, 8.2rem)`, letter-spacing -.025em, line-height .92. 마지막 단어만 `--ac2` + 이탤릭.
 - 섹션 제목 `.h2`: `clamp(2rem, 5vw, 3.6rem)`, 600, 둘째 줄은 `.mute`(회색)로 톤을 낮춘다.
 - 섹션 위 kicker는 mono 대문자 + `--ac2`.
 
